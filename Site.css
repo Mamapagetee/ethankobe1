@@ -26,7 +26,7 @@ font-weight 900%;
 text-align: center;
 font-size: 250%;
 position:absolute;
-top: 4%;
+top: auto,500px;
 right:42.5%;
 color:#132DA6;	
 font-family:Georgia;
