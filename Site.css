@@ -24,11 +24,12 @@ font-weight 900%;
 
 .thisismywebsite {
 text-align: center;
+font-size: 200%;
 position:fixed;
 top: 7%;
 right:50%;
 color:#132DA6;	
-font-family:Impact;
+font-family:Georgia;
 font-weight:900%;
 
 
