@@ -7,6 +7,10 @@ body {
  background-size: 100%;
 	font-family: Arial;
 }
+ul {
+list-style:none;
+
+}
 .Bar {
 font-family: Georgia;
 padding-bottom: 10px;
