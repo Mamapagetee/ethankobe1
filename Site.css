@@ -9,11 +9,14 @@ body {
 }
 ul {
 list-style:none;
+	padding:0px;
+	margin:0px;
 }
 ul li {
 float:left;
 	width:200px;
 	height:40px;
+	text-align:center;
 
 }
 .Bar {
