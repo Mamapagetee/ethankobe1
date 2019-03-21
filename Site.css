@@ -63,7 +63,8 @@ font-weight:900%;
 font-size:100px;
 color:white;
 float: left;
-margin:300px;
+margin-top:300px;
+margin-left:100px;
 }
 .content{
 font-size:20px
