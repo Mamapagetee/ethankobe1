@@ -27,6 +27,7 @@ display:block;
 }
 ul li a:hover {
 background-color:blue;
+text-align:center;
 
 }
 
