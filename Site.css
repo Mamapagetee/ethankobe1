@@ -8,13 +8,10 @@ body {
 	font-family: Arial;
 }
 ul {
-list-style:none;
+list-style-type:none;
 	padding:0px;
 	margin:0px;
-	font-family:Georgia;
-	color:White;
-	background-color:Black;
-	Opacity:80%;
+	
 }
 ul li {
 float:right;
@@ -22,7 +19,7 @@ float:right;
 	height:40px;
 	text-align:center;
 	underline: false;
-	top: 15%;
+	
 	
 
 }
