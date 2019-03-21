@@ -58,9 +58,13 @@ color:#132DA6;
 font-family:Georgia;
 font-weight:900%;
 }
-.dropdown {
-height:5%;
-width:2%
-	}
+.headers{
+font-size:100px;
+color:white;
+}
+.content{
+font-size:20px
+color:white;	
+}
 
 
