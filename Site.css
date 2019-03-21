@@ -13,13 +13,12 @@ list-style:none;
 	margin:0px;
 }
 ul li {
-float:left;
+float:right;
 	width:200px;
 	height:40px;
 	text-align:center;
 	underline: false;
 	font-family: Georgia;
-	right: 30%;
 	color:white;
 
 }
