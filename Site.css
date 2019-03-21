@@ -19,6 +19,7 @@ width:200px;
 height:40px;
 background-color: white;
 opacity: .3;
+text-align: center;
 }
 ul li a{
 text-decoration:none;
@@ -27,7 +28,7 @@ display:block;
 }
 ul li a:hover {
 background-color:blue;
-text-align:center;
+
 
 }
 
