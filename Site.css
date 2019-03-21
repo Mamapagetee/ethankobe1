@@ -46,7 +46,7 @@ left: 5%;
 	height:15%;
 	width: 100%;
 	color:#132DA6;
-border-bottom: 130px;
+
 }
 
 .thisismywebsite {
@@ -63,6 +63,7 @@ font-weight:900%;
 font-size:100px;
 color:white;
 float: left;
+margin:300px;
 }
 .content{
 font-size:20px
