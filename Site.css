@@ -18,6 +18,9 @@ float:left;
 	height:40px;
 	text-align:center;
 	underline: false;
+	font-family: Georgia;
+	right: 30%;
+	color:white;
 
 }
 .Bar {
