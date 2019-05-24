@@ -7,6 +7,12 @@ body {
  background-size: 100%;
 }
 
+#words {
+font color: white;
+font size: 36;
+line-height: 250%;
+}
+
 li: hover ul {
 display: block;
 
